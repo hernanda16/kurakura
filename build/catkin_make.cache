@@ -1,2 +1,0 @@
-iris
--DCATKIN_DEVEL_PREFIX=/home/her/Documents/kurakura/devel -DCMAKE_INSTALL_PREFIX=/home/her/Documents/kurakura/install -G Unix Makefiles
